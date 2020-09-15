@@ -9,12 +9,12 @@
 * Python-pip
 * Python2 Library: dnspython
 * Python2 Library: netaddr
----
-## Setup (to install the libraries)##
 
-**pip2 install -r requirements.txt** 
+## Setup (to install the libraries)
 ---
-# Usage #
+**pip2 install -r requirements.txt** 
+
+# Usage 
 ---
 **python2 sdscan.py**
----
+
