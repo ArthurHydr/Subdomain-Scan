@@ -12,9 +12,11 @@
 
 ## Setup (to install the libraries)
 ---
-**pip2 install -r requirements.txt** 
+git clone https://github.com/ArthurMgbr/Subdomain-Scan.git
+cd Subdomain-Scan/
+pip2 install -r requirements.txt** 
 
 # Usage 
 ---
-**python2 sdscan.py**
+python2 sdscan.py**
 
