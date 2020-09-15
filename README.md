@@ -1,6 +1,6 @@
 # Subdomain-Scan #
 --- 
-**Subdomain-Scan is a tool for students and professionals in the programming area, pentest.**
+**Subdomain-Scan is a tool for students and professionals in the programming and pentest area.**
 **Any use for other purposes is at your risk and choice!**
 
 ## Requirements
