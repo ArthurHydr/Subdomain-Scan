@@ -4,7 +4,7 @@ import sys
 
 print ""
 wordlist = raw_input("Type the wordlist: ")
-domain  = raw_input("type the domain: ")
+domain   = raw_input("Type the domain: ")
 print ""
 
 try:                                              
